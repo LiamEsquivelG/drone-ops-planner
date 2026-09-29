@@ -2,7 +2,7 @@
 
 **Demo de planificación y trazabilidad de operativos con drones**, basada en la lógica de mi proyecto de título en Ingeniería Civil Industrial (PUCV).
 
-> **Nota:** El sistema real fue desarrollado junto a mi equipo para la Dirección de Seguridad Pública de la Municipalidad de Viña del Mar y es propiedad de la institución. Este repositorio **no contiene su código ni sus datos**. Es una versión propia y simplificada, con **datos simulados**, para mostrar la lógica de asignación y los indicadores.
+> **Nota:** el sistema real fue desarrollado junto a mi equipo para la Dirección de Seguridad Pública de la Municipalidad de Viña del Mar y es propiedad de la institución. Este repositorio **no contiene su código ni sus datos**. Es una versión propia y simplificada, con **datos simulados**, para mostrar la lógica de asignación y los indicadores.
 
 ## Contexto real (proyecto de título)
 - Sistema de planificación y trazabilidad operativa para el uso de drones, **implementado y en uso** en la institución.
